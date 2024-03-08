@@ -3,3 +3,6 @@ git config user.name seunome    = serve para salvar os projetos que eu fizer no 
 git config user.email seuemail     = seve para salvar os projetos que eu fizer com meu email, serve para identificação
 git add . = adiciona um arquivo ao repositório
 git commit -m= serve para salvar a versão do arquivo e serve para explicar o que foi modificado ou adicionado
+git branch    = mostra todas as branchs que tem
+git branch 'seu nome'= cria uma noca branch
+git checkou 'seu nome'= muda a branch
